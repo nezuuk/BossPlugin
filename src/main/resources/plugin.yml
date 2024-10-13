@@ -1,0 +1,5 @@
+name: BossPlugin
+version: '${version}'
+main: ru.emrass.BossPlugin
+api-version: '1.19'
+depend: ['BossAPI']
